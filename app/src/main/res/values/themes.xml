@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MichellinExpress" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.MichellinExpress" parent="Base.Theme.MichellinExpress" />
+    <style name="Theme.ButtonChanger"
+        parent="Theme.AppCompat.Light.NoActionBar"/>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Pressed state (when the button is touched) -->
+    <item android:drawable="@drawable/button_selector" android:state_pressed="true" />
+
+    <!-- Focused state (when the button gains focus, e.g., with navigation keys) -->
+    <item android:drawable="@color/black" android:state_focused="true" />
+
+    <!-- Default state (when neither pressed nor focused) -->
+    <item android:drawable="@drawable/button_selector"></item>
+</selector>

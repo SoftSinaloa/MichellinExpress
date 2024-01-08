@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "389141494463",
+    "project_id": "michelinexpress-dcc7f",
+    "storage_bucket": "michelinexpress-dcc7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389141494463:android:78e535fd1f343f97a5640a",
+        "android_client_info": {
+          "package_name": "com.example.michellinexpress"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1cH7Y3lXvDZhtiEiosKRc0kUxwWCRUZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
